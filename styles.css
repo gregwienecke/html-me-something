@@ -54,7 +54,9 @@ span {
 
 img {
 	width: 915px;
-	margin-left: 175px;
+	display: block;
+	margin: auto;
+	/*margin-left: 175px;*/
 }
 
 footer li {
