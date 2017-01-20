@@ -31,7 +31,7 @@ header p {
 	color: #666;
 }
 
-#poem {
+.poem {
 	font-family: Helvetica;
 	padding-left: 15px;
 	padding-top: 20px;
